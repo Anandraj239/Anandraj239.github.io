@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anand Raj | Creative Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Noise overlay -->
+    <div class="noise"></div>
+
+    <!-- Intro / Loader -->
+    <div id="loader" class="loader">
+        <div class="loader-content">
+            <div class="loader-text">READY</div>
+            <div class="loader-line"></div>
+            <div class="loader-sub">(NOW JUST CLICK SOMEWHERE)</div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content-wrapper">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <span>&copy;2026 ANAND RAJ</span>
+            </div>
+            <div class="header-center">
+                <div class="globe-placeholder">🌍</div>
+            </div>
+            <nav class="header-right">
+                <a href="#projects">(PRJ)</a>
+                <a href="#about">(WHO)</a>
+                <a href="#contact">(MSG)</a>
+            </nav>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1 class="hero-title">
+                <span class="line-1">ANAND</span><br>
+                <span class="line-2">RAJ</span>
+            </h1>
+            <p class="hero-desc">CREATIVE DEVELOPER BLENDING ARTIFICIAL INTELLIGENCE WITH HIGH-END WEB EXPERIENCES.</p>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects">
+            <div class="projects-list">
+                <!-- Project Row 1 -->
+                <a href="#" class="project-row" data-image="assets/images/project1.png">
+                    <div class="p-year">//26</div>
+                    <div class="p-category">AI VISION</div>
+                    <div class="p-name">HAND POSE VISUALIZER</div>
+                    <div class="p-awards">PYTHON, MEDIAPIPE</div>
+                    <div class="p-launch">LAUNCH ↗</div>
+                </a>
+                <!-- Project Row 2 -->
+                <a href="#" class="project-row" data-image="assets/images/project2.png">
+                    <div class="p-year">//25</div>
+                    <div class="p-category">AUTOMATION</div>
+                    <div class="p-name">ARCADE GITHUB PROFILE</div>
+                    <div class="p-awards">ACTIONS, SVG</div>
+                    <div class="p-launch">LAUNCH ↗</div>
+                </a>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="about-content">
+                <h2>(WHO)</h2>
+                <p>I am a passionate software developer dedicated to building visually stunning and technically profound applications. Specializing in bridging the gap between modern web technologies and the bleeding edge of Artificial Intelligence.</p>
+                <div class="social-links">
+                    <a href="https://github.com/Anandraj239" target="_blank" rel="noopener noreferrer">GITHUB ↗</a>
+                    <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">LINKEDIN ↗</a>
+                    <a href="https://www.instagram.com/anand_raj_0/" target="_blank" rel="noopener noreferrer">INSTAGRAM ↗</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Custom Image Preview for Hover -->
+        <div id="project-preview" class="project-preview">
+            <img id="preview-img" src="" alt="Project Preview">
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
