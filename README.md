@@ -10,7 +10,7 @@ A minimalist, high-end personal portfolio website inspired by brutalist typograp
 - **Brutalist Typography:** Uses bold, striking fonts (`Syne` and `JetBrains Mono`) for a distinct and memorable visual identity.
 - **Interactive Project Showcase:** Features a custom mouse-following image preview effect when hovering over project listings.
 - **Dynamic Styling:** Implements custom CSS noise overlays and micro-animations for a highly polished, premium feel.
-- **Responsive Layout:** Designed to look exceptional on all devices, from ultra-wide desktop monitors to mobile screens.
+- **Responsive Layout:** Designed to look exceptional on all devices, from ultra-wide desktop monitors to mobile screens. 
 
 ## 🛠️ Technologies Used
 
