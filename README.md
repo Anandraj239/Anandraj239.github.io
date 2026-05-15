@@ -12,7 +12,7 @@ A minimalist, high-end personal portfolio website inspired by brutalist typograp
 - **Dynamic Styling:** Implements custom CSS noise overlays and micro-animations for a highly polished, premium feel.
 - **Responsive Layout:** Designed to look exceptional on all devices, from ultra-wide desktop monitors to mobile screens. 
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - **HTML5:** Semantic, well-structured document foundation.
 - **CSS3:** Custom variables, grid/flexbox layouts, noise effects, and smooth transitions/animations.
