@@ -1,6 +1,6 @@
 # Anand Raj | Personal Portfolio
 
-A minimalist, high-end personal portfolio website inspired by brutalist typography and modern interactive web design. Built from scratch without the use of complex frameworks to ensure maximum performance and total control over the DOM.
+A minimalist, high-end personal portfolio website inspired by brutalist typography and modern interactive web design. Built from scratch without the use of complex frameworks to ensure maximum performance and total control over the DOM. 
 
 **🌐 Live Site:** [https://Anandraj239.github.io](https://Anandraj239.github.io)
 
